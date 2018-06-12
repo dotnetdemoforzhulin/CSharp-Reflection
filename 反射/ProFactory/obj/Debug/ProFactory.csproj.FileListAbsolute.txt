@@ -1,0 +1,7 @@
+D:\Documents\Visual Studio 2010\Projects\反射\ProFactory\obj\Debug\ProFactory.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\反射\ProFactory\bin\Debug\ProFactory.dll
+D:\Documents\Visual Studio 2010\Projects\反射\ProFactory\bin\Debug\ProFactory.pdb
+D:\Documents\Visual Studio 2010\Projects\反射\ProFactory\bin\Debug\ProOperation.dll
+D:\Documents\Visual Studio 2010\Projects\反射\ProFactory\bin\Debug\ProOperation.pdb
+D:\Documents\Visual Studio 2010\Projects\反射\ProFactory\obj\Debug\ProFactory.dll
+D:\Documents\Visual Studio 2010\Projects\反射\ProFactory\obj\Debug\ProFactory.pdb
